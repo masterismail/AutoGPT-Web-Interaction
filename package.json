@@ -1,0 +1,12 @@
+{
+  "name": "autogpt-web-interface",
+  "version": "1.0.0",
+  "description": "AutoGPT-Web-Interaction is a package that enables web-based interaction with OpenAI's GPT language model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ismail",
+  "license": "MIT"
+}
